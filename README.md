@@ -370,6 +370,8 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 
 #### Sales
 * ElasticSales | https://elasticsales.com/ | [@elasticsales](https://twitter.com/elasticsales) |  | Sales as a service | We provide companies a scalable sales team on demand. You can manage your entire sales force via the cloud and get analytics and metrics in real-time. We have the best sales reps in technology and have a powerful operational process to onboarding highly technical products and platforms and scaling their revenue quickly.
+* SalesZip | http://saleszip.com | [@SalesZip](https://twitter.com/SalesZip) 
+| Sales As A Service | Reach your future customers today. We’re a team of marketers who are passionate about selling. We’re here to help you sell the products and tools of the future. We focus on improving the ROI and efficiency of sales and marketing departments. We help our customers accelerate revenue by identifying, profiling and nurturing the right decision makers within their target accounts.
 
 #### Data
 * Factual | http://www.factual.com/ | [@Factual](http://www.twitter.com/Factual) |  | GLOBAL DATA. LOCAL CONTEXT. | Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack.
